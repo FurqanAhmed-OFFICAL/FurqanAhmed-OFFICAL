@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=Business+Analyst+%7C+Data+Enthusiast;SQL+%7C+Power+BI+%7C+Excel+Specialist;Transforming+data+into+decisions" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Business+Analyst+%7C+Data+Enthusiast;Data-Driven+Decision+Maker+%7C+Insightful+Problem+Solver;But+First+%26+Foremost%2C+a+Lifelong+Learner;SQL+%7C+Power+BI+%7C+Excel+Specialist;Transforming+Data+into+Decisions" alt="Typing SVG" />
+</p>
+
+
 ---
 
 ### 🔍 About Me
