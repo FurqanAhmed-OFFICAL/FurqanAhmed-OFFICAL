@@ -26,13 +26,23 @@
 
 ---
 
+---
+
 ### 💼 Projects
 
-- 🚴‍♂️ [Bike Shop Power BI Dashboard](https://github.com/FurqanAhmed-OFFICAL/Interactive_Power-BI-dashboard)  
-- ☕ [Coffee Orders Interactive Excel Dashboard](https://github.com/FurqanAhmed-OFFICAL/CoffeOrders_interactive_dashboard)  
-- 🏍 [Motorcycle Sales Analysis (SQL)](https://github.com/FurqanAhmed-OFFICAL/Motorcycle-sales-analyzed)
+- 📊 [Maven Market Sales Dashboard (Power BI)](https://github.com/FurqanAhmed-OFFICAL/Maven-Market-PBI)  
+  Designed an end-to-end Power BI dashboard for Maven Market covering sales trends, customer segmentation, and product category analysis using DAX and Power Query.
 
----
+- 🚴‍♂️ [Bike Shop Power BI Dashboard](https://github.com/FurqanAhmed-OFFICAL/Interactive_Power-BI-dashboard)  
+  Created dynamic KPIs and visuals for a retail bike store, enabling regional sales insights and product performance analysis.
+
+- ☕ [Coffee Orders Interactive Excel Dashboard](https://github.com/FurqanAhmed-OFFICAL/CoffeOrders_interactive_dashboard)  
+  Built a real-time Excel dashboard using slicers, pivot tables, and visuals to analyze sales across country, roast, and customer types.
+
+- 🏍 [Motorcycle Sales Analysis (SQL)](https://github.com/FurqanAhmed-OFFICAL/Motorcycle-sales-analyzed)  
+  Wrote advanced PostgreSQL queries (CTEs, CASE, JOINs) to analyze motorcycle sales revenue by product and warehouse.
+
+
 
 ### 🛠️ Tech Stack & Tools
 
