@@ -1,5 +1,5 @@
 <h1 align="center">Furqan Ahmed</h1>
-<h3 align="center">Business Intelligence Analyst | Data Science Professional</h3>
+<h3 align="center">Business Intelligence Analyst | Data Analyst Professional</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Business+Intelligence+Professional;Data+Analytics+%26+Visualization+Specialist;Database+Management+%26+Cloud+Solutions;Advanced+Statistical+Analysis+%26+Modeling;Enterprise+Data+Solutions+Developer" alt="Professional Profile" />
@@ -12,10 +12,9 @@
 **Business Intelligence Analyst** with demonstrated expertise in enterprise data analytics, database management, and cloud-based solutions. Specialized in developing scalable data pipelines, advanced visualization dashboards, and strategic business intelligence solutions.
 
 **Core Competencies:**
-- Advanced Data Analytics & Statistical Modeling
+- Advanced Data Analytics 
 - Enterprise Dashboard Development & Business Intelligence
-- Database Architecture & Cloud Data Management  
-- ETL Pipeline Design & Data Integration
+- Cloud Data Management  
 - Cross-functional Stakeholder Management
 
 **Technical Proficiencies:** PostgreSQL, BigQuery, Python (Pandas), Power BI, Advanced Excel, DAX, Power Query
@@ -105,13 +104,8 @@
 
 ### Professional Development & Current Initiatives
 
-**Current Focus Areas:**
-- Advanced Machine Learning implementation for predictive analytics
-- Real-time data streaming architecture development
-- Cloud-native data engineering solutions
-
 **Ongoing Projects:**
-- Enterprise-grade real-time analytics dashboard with live API integration
+- Enterprise-grade real-time analytics dashboard
 - Advanced statistical modeling for business forecasting applications
 - Cloud data warehouse optimization and automation
 
