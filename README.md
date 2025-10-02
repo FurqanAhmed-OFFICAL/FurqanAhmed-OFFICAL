@@ -2,26 +2,41 @@
 <h3 align="center">Data Analyst | Business Intelligence Professional</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Data+Analyst+%26+Business+Intelligence+Specialist;SQL+%7C+Python+%7C+Power+BI+Expert;Statistical+Analysis+%26+Data+Visualization;ETL+Pipeline+Development+%26+Automation;Transforming+Data+into+Strategic+Insights" alt="Professional Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Data+Analyst+%26+Business+Intelligence+Specialist;SQL+%7C+Python+%7C+Power+BI+Expert;Statistical+Analysis+%26+Data+Visualization;ETL+Pipeline+Development+%26+Automation;SAP+HANA+%7C+VBA+%7C+Process+Automation;Transforming+Data+into+Strategic+Insights" alt="Professional Profile" />
 </p>
 
 ---
 
 ### Professional Summary
 
-**Data Analyst** with proven expertise in data modeling, SQL database management, and business intelligence solutions. Specialized in extracting actionable insights from complex datasets to support data-driven decision making and business strategy development.
+**Data Analyst** with proven expertise in data modeling, SQL database management, and business intelligence solutions. Specialized in extracting actionable insights from complex datasets to support data-driven decision making and business strategy development. Demonstrated success in automating ETL processes, reducing manual reporting effort by 70%, and delivering actionable insights for 400-500+ employees through enterprise systems integration.
 
 **Core Competencies:**
 - SQL Database Management & Query Optimization
 - Interactive Dashboard Development & Data Visualization
-- ETL Pipeline Design & Data Transformation
+- ETL Pipeline Design & Automation (VBA, Python, Power Query)
 - Business Intelligence Reporting & KPI Development
+- Enterprise System Integration (SAP HANA, ESSL)
+- HR Analytics & Payroll Reporting
 - Data Mining & Pattern Recognition
 - Performance Metrics & Business Analytics
 
-**Technical Proficiencies:** SQL (PostgreSQL, BigQuery), Python (Pandas, NumPy), Power BI, Advanced Excel, DAX, Power Query, Data Analysis
+**Technical Proficiencies:** SQL (PostgreSQL, BigQuery), Python (Pandas, NumPy, Automation), Power BI, Advanced Excel, DAX, Power Query, VBA, SAP HANA, Data Analysis
 
-**Professional Background:** Results-driven data analyst with strong business acumen and analytical problem-solving skills, experienced in translating complex data patterns into clear, actionable business recommendations.
+**Professional Background:** Results-driven data analyst with strong business acumen and analytical problem-solving skills, experienced in translating complex data patterns into clear, actionable business recommendations. Proven track record in automating workflows, processing 300+ files weekly, and delivering real-time insights to stakeholders.
+
+---
+
+### Professional Experience & Impact
+
+**Data Analyst Intern**  
+*HR Analytics & Business Intelligence*
+
+- **Dashboard Development:** Designed and delivered 3+ interactive dashboards in Power BI, SQL, and Excel, leveraging DAX and Power Query to provide real-time insights for 5+ stakeholders across HR, payroll, and compliance functions
+- **Process Automation:** Automated ETL pipelines and reporting using VBA, reducing manual reporting effort by 70% and significantly improving data accuracy and timeliness
+- **Python Automation:** Developed Python automation scripts to process 300+ files weekly, saving 10+ hours of manual work and streamlining HR and payroll reporting workflows
+- **Enterprise Data Integration:** Transformed raw data from SAP HANA and ESSL systems into comprehensive analytical reports covering payroll, attendance, and compliance (EPF/ESIC) for 400-500+ employees
+- **Stakeholder Reporting:** Created automated, data-driven reports that enabled faster decision-making and improved operational efficiency across multiple departments
 
 ---
 
@@ -34,7 +49,7 @@
 *Advanced Query Writing, Database Design & Performance Tuning*
 
 **Excel Data Analysis & Business Intelligence**  
-*Advanced Analytics, Pivot Tables & Data Functions*
+*Advanced Analytics, Pivot Tables, VBA Automation & Data Functions*
 
 **Python for Data Analysis**  
 *Data Manipulation, Data Processing & Automation*
@@ -42,6 +57,10 @@
 ---
 
 ### Data Analysis Portfolio
+
+**HR Analytics & Payroll Intelligence System**  
+*Enterprise-scale analytics solution integrating SAP HANA and ESSL systems*  
+*Developed automated ETL pipelines using Python and VBA to process 300+ files weekly. Built 3+ interactive Power BI dashboards with DAX calculations providing real-time insights for payroll, attendance, and compliance reporting for 400-500+ employees. Reduced manual reporting effort by 70% through process automation.*
 
 **Fitness Industry Analytics Platform**  
 [Workout Analytics Dashboard](https://github.com/FurqanAhmed-OFFICAL/Workout-analytics)  
@@ -73,22 +92,30 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 **Data Analysis & Statistics:**
-- SQL: Complex query writing, data extraction, database optimization
-- Python: Data manipulation with Pandas, statistical analysis, automation
+- SQL: Complex query writing, data extraction, database optimization, enterprise data integration
+- Python: Data manipulation with Pandas, statistical analysis, automation scripts, file processing (300+ files/week)
 - Statistical Methods: Regression analysis, hypothesis testing, forecasting
 - Data Cleaning: Data quality assessment, outlier detection, missing value handling
 
 **Business Intelligence & Visualization:**
-- Power BI: Interactive dashboards, advanced DAX calculations, data modeling
-- Excel: Advanced functions, pivot tables, statistical analysis, VBA automation
-- Data Visualization: Chart design, KPI development, executive reporting
+- Power BI: Interactive dashboards (3+ delivered), advanced DAX calculations, data modeling, real-time insights
+- Excel: Advanced functions, pivot tables, statistical analysis, VBA automation (70% efficiency improvement)
+- Data Visualization: Chart design, KPI development, executive reporting, stakeholder communication
 - Power Query: ETL processes, data transformation, automated workflows
+
+**Enterprise Systems & Automation:**
+- SAP HANA: Data extraction, integration, payroll and HR analytics
+- ESSL Systems: Attendance data processing, compliance reporting
+- VBA: ETL pipeline automation, report generation, workflow optimization
+- Python Automation: Batch file processing, data transformation, reporting automation
 
 **Database & Cloud Platforms:**
 - PostgreSQL: Advanced querying, performance optimization, data architecture
@@ -110,12 +137,22 @@
 - Customer segmentation and behavior analysis
 - Sales forecasting and demand planning
 - Financial analysis and reporting automation
+- HR analytics and workforce planning
+- Payroll and compliance reporting (EPF/ESIC)
 
 **Data Management:**
 - Data quality assessment and cleaning
-- ETL pipeline development and optimization
+- ETL pipeline development and optimization (70% efficiency gains)
 - Database design and normalization
 - Data governance and documentation
+- Enterprise system integration (SAP HANA, ESSL)
+- Automated workflow development
+
+**Process Automation:**
+- Python script development for batch processing (300+ files weekly)
+- VBA macro creation for report automation
+- ETL pipeline design and implementation
+- Workflow optimization and efficiency improvement
 
 ---
 
@@ -130,23 +167,25 @@
 
 ### Current Focus & Professional Development
 
-**Recent Professional Experience:**
-- Designed and delivered 3+ interactive dashboards in Power BI, SQL, and Excel, leveraging DAX and Power Query to provide real-time insights for 5+ stakeholders
-- Automated ETL pipelines and reporting using VBA, reducing manual reporting effort by 70% and improving accuracy
-- Developed Python automation scripts to process 300+ files weekly, saving 10+ hours and streamlining HR and payroll reporting
-- Transformed raw data from SAP HANA and ESSL systems into analytical reports covering payroll, attendance, and compliance (EPF/ESIC) for 400-500+ employees
+**Recent Achievements:**
+- ✅ Delivered 3+ interactive dashboards providing real-time insights for 5+ stakeholders
+- ✅ Achieved 70% reduction in manual reporting effort through VBA automation
+- ✅ Automated processing of 300+ files weekly, saving 10+ hours per week
+- ✅ Integrated SAP HANA and ESSL systems for comprehensive HR analytics covering 400-500+ employees
 
 **Analytics Specializations:**
-- Advanced Python libraries for statistical analysis
+- Advanced Python libraries for statistical analysis and automation
 - Machine learning applications in business analytics
 - Real-time data analysis and streaming analytics
 - Cloud-based data analysis platforms and tools
+- Enterprise system integration and data warehousing
 
 **Ongoing Projects:**
-- Predictive analytics models for business forecasting
+- Predictive analytics models for business forecasting and workforce planning
 - Advanced statistical analysis using Python and R
 - Cloud data pipeline automation and optimization
 - Interactive analytics dashboards with real-time data integration
+- Enhanced HR analytics solutions with compliance tracking
 
 ---
 
@@ -156,10 +195,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furqan898ahmed@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/FurqanAhmed-OFFICAL)
 
-**Open to:** Data analysis consulting, freelance analytics projects, and collaborative research opportunities.
+**Open to:** Data analysis consulting, freelance analytics projects, HR analytics solutions, and collaborative research opportunities.
 
 ---
 
 <p align="center">
-  <i>Transforming complex data into clear insights that drive informed business decisions</i>
+  <i>Transforming complex data into clear insights that drive informed business decisions | Proven track record in automation, enterprise integration, and delivering measurable business impact</i>
 </p>
