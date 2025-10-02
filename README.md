@@ -130,6 +130,12 @@
 
 ### Current Focus & Professional Development
 
+**Recent Professional Experience:**
+- Designed and delivered 3+ interactive dashboards in Power BI, SQL, and Excel, leveraging DAX and Power Query to provide real-time insights for 5+ stakeholders
+- Automated ETL pipelines and reporting using VBA, reducing manual reporting effort by 70% and improving accuracy
+- Developed Python automation scripts to process 300+ files weekly, saving 10+ hours and streamlining HR and payroll reporting
+- Transformed raw data from SAP HANA and ESSL systems into analytical reports covering payroll, attendance, and compliance (EPF/ESIC) for 400-500+ employees
+
 **Analytics Specializations:**
 - Advanced Python libraries for statistical analysis
 - Machine learning applications in business analytics
